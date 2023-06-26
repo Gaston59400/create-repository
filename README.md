@@ -46,7 +46,7 @@ git status
 git add README.md
 git commit -m "First commit"
 git pull
-git push
+git push --set-upstream origin main
 ```
 
 
